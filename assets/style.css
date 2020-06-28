@@ -1,6 +1,41 @@
+body {
+    background: grey;
+}
+
 
 .card-img-top1 {
-    width: 500px;
-    height: 600px;
-    display: inline;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: grey;
 }
+
+.card-body {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.navbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.list-group {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
